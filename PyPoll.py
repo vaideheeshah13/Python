@@ -18,7 +18,7 @@ with open(PyPollcsv, newline="") as csvfile:
         count = count + 1
         total_candidates.append(row[2])
 
-    for i in set(candidates):
+    for i in set(total_candidates):
         candidate_name.append(i)
         votes_candidate = total_candidates.count(i)
         voter_count.append(votes_candidate)
