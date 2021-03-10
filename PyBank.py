@@ -80,3 +80,4 @@ with open('analysis.txt', 'w') as text:
     text.write("    Greatest Increase in Profits: " + str(greatest_increase_date) + " ($" + str(greatest_increase_profits) + ")\n")
     text.write("    Greatest Decrease in Profits: " + str(greatest_decrease_date) + " ($" + str(greatest_decrease_profits) + ")\n")
     text.write("----------------------------------------------------------\n")
+#total profit and average change doens't match example
