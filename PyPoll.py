@@ -1,4 +1,12 @@
+#Resources
+#https://www.w3schools.com/python/python_lists_loop.asp
+#https://www.askpython.com/python/list/iterate-through-list-in-python
+#https://www.geeksforgeeks.org/iterate-over-a-list-in-python/
+#https://www.geeksforgeeks.org/reading-writing-text-files-python/
+#https://www.geeksforgeeks.org/python-pandas-dataframe-append/
 #import data
+
+
 import os
 import csv
 
